@@ -4,8 +4,8 @@ Projeto da disciplina Programação com Frameworks Web. API REST em Node.js e Ex
 
 ## Integrantes
 
-- Nome completo do aluno 1
-- Nome completo do aluno 2
+- Thiago Henrique Porfírio de Oliveira
+- Arthur Lacerda Paiva de França
 
 ## Funcionalidades
 
